@@ -1,4 +1,4 @@
-import 'package:eg_dart_shelf/common/model/base_entity.dart';
+import 'package:blog_shelf/common/model/base_entity.dart';
 
 class Comment extends BaseEntity {
   final String authorId;

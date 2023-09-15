@@ -1,6 +1,6 @@
-import 'package:eg_dart_shelf/users/jwt_service.dart';
-import 'package:eg_dart_shelf/users/model/user.dart';
-import 'package:eg_dart_shelf/users/users_service.dart';
+import 'package:blog_shelf/users/jwt_service.dart';
+import 'package:blog_shelf/users/model/user.dart';
+import 'package:blog_shelf/users/users_service.dart';
 import 'package:shelf/shelf.dart';
 
 class AuthProvider {

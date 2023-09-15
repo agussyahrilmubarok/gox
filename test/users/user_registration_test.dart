@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:eg_dart_shelf/common/errors/dtos/error_dto.dart';
+import 'package:blog_shelf/common/errors/dtos/error_dto.dart';
 import 'package:http/http.dart';
 import 'package:test/test.dart';
 

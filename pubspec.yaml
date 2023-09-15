@@ -1,6 +1,6 @@
-name: eg_dart_shelf
+name: blog_shelf
 description: A server app using the shelf package and Docker.
-version: 1.0.0
+version: 2.0.0
 repository: https://github.com/gusriil/eg-dart-shelf
 
 environment:

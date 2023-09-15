@@ -1,4 +1,4 @@
-import 'package:eg_dart_shelf/profiles/dtos/profile_dto.dart';
+import 'package:blog_shelf/profiles/dtos/profile_dto.dart';
 
 class ArticleDto {
   final String slug;

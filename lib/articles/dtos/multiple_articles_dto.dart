@@ -1,4 +1,4 @@
-import 'package:eg_dart_shelf/articles/dtos/article_dto.dart';
+import 'package:blog_shelf/articles/dtos/article_dto.dart';
 
 class MultipleArticlesDto {
   final List<ArticleDto> articles;

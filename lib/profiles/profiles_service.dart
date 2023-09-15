@@ -1,7 +1,7 @@
-import 'package:eg_dart_shelf/common/exceptions/argument_exception.dart';
-import 'package:eg_dart_shelf/common/exceptions/not_found_exception.dart';
-import 'package:eg_dart_shelf/profiles/model/follow.dart';
-import 'package:eg_dart_shelf/users/users_service.dart';
+import 'package:blog_shelf/common/exceptions/argument_exception.dart';
+import 'package:blog_shelf/common/exceptions/not_found_exception.dart';
+import 'package:blog_shelf/profiles/model/follow.dart';
+import 'package:blog_shelf/users/users_service.dart';
 import 'package:postgres_pool/postgres_pool.dart';
 
 class ProfilesService {

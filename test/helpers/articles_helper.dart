@@ -1,11 +1,11 @@
 import 'dart:convert';
 
-import 'package:eg_dart_shelf/articles/dtos/article_dto.dart';
-import 'package:eg_dart_shelf/articles/dtos/comment_dto.dart';
-import 'package:eg_dart_shelf/articles/dtos/list_of_tags_dto.dart';
-import 'package:eg_dart_shelf/articles/dtos/multiple_articles_dto.dart';
-import 'package:eg_dart_shelf/articles/dtos/multiple_comments_dto.dart';
-import 'package:eg_dart_shelf/users/dtos/user_dto.dart';
+import 'package:blog_shelf/articles/dtos/article_dto.dart';
+import 'package:blog_shelf/articles/dtos/comment_dto.dart';
+import 'package:blog_shelf/articles/dtos/list_of_tags_dto.dart';
+import 'package:blog_shelf/articles/dtos/multiple_articles_dto.dart';
+import 'package:blog_shelf/articles/dtos/multiple_comments_dto.dart';
+import 'package:blog_shelf/users/dtos/user_dto.dart';
 import 'package:http/http.dart';
 import 'package:slugify/slugify.dart';
 import 'package:test/expect.dart';

@@ -1,8 +1,8 @@
 import 'dart:convert';
 
-import 'package:eg_dart_shelf/articles/dtos/article_dto.dart';
-import 'package:eg_dart_shelf/common/errors/dtos/error_dto.dart';
-import 'package:eg_dart_shelf/users/dtos/user_dto.dart';
+import 'package:blog_shelf/articles/dtos/article_dto.dart';
+import 'package:blog_shelf/common/errors/dtos/error_dto.dart';
+import 'package:blog_shelf/users/dtos/user_dto.dart';
 import 'package:test/test.dart';
 
 import '../helpers/articles_helper.dart';

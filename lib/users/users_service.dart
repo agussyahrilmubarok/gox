@@ -1,7 +1,7 @@
-import 'package:eg_dart_shelf/common/exceptions/already_exists_exception.dart';
-import 'package:eg_dart_shelf/common/exceptions/argument_exception.dart';
-import 'package:eg_dart_shelf/common/exceptions/not_found_exception.dart';
-import 'package:eg_dart_shelf/users/model/user.dart';
+import 'package:blog_shelf/common/exceptions/already_exists_exception.dart';
+import 'package:blog_shelf/common/exceptions/argument_exception.dart';
+import 'package:blog_shelf/common/exceptions/not_found_exception.dart';
+import 'package:blog_shelf/users/model/user.dart';
 import 'package:email_validator/email_validator.dart';
 import 'package:postgres_pool/postgres_pool.dart';
 

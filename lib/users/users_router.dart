@@ -1,13 +1,13 @@
 import 'dart:convert';
 
-import 'package:eg_dart_shelf/common/errors/dtos/error_dto.dart';
-import 'package:eg_dart_shelf/common/exceptions/already_exists_exception.dart';
-import 'package:eg_dart_shelf/common/exceptions/argument_exception.dart';
-import 'package:eg_dart_shelf/common/middleware/auth.dart';
-import 'package:eg_dart_shelf/users/dtos/user_dto.dart';
-import 'package:eg_dart_shelf/users/jwt_service.dart';
-import 'package:eg_dart_shelf/users/model/user.dart';
-import 'package:eg_dart_shelf/users/users_service.dart';
+import 'package:blog_shelf/common/errors/dtos/error_dto.dart';
+import 'package:blog_shelf/common/exceptions/already_exists_exception.dart';
+import 'package:blog_shelf/common/exceptions/argument_exception.dart';
+import 'package:blog_shelf/common/middleware/auth.dart';
+import 'package:blog_shelf/users/dtos/user_dto.dart';
+import 'package:blog_shelf/users/jwt_service.dart';
+import 'package:blog_shelf/users/model/user.dart';
+import 'package:blog_shelf/users/users_service.dart';
 import 'package:shelf/shelf.dart';
 import 'package:shelf_router/shelf_router.dart';
 

@@ -1,4 +1,4 @@
-import 'package:eg_dart_shelf/users/jwt_service.dart';
+import 'package:blog_shelf/users/jwt_service.dart';
 
 import '../test_fixtures.dart';
 

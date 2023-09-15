@@ -1,7 +1,7 @@
-import 'package:eg_dart_shelf/articles/articles_router.dart';
-import 'package:eg_dart_shelf/common/middleware/json_content_type_response.dart';
-import 'package:eg_dart_shelf/profiles/profiles_router.dart';
-import 'package:eg_dart_shelf/users/users_router.dart';
+import 'package:blog_shelf/articles/articles_router.dart';
+import 'package:blog_shelf/common/middleware/json_content_type_response.dart';
+import 'package:blog_shelf/profiles/profiles_router.dart';
+import 'package:blog_shelf/users/users_router.dart';
 import 'package:shelf/shelf.dart';
 import 'package:shelf_cors_headers/shelf_cors_headers.dart';
 import 'package:shelf_router/shelf_router.dart';
