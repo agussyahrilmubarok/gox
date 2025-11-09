@@ -4,6 +4,7 @@ go 1.25.3
 
 require (
 	github.com/hashicorp/consul/api v1.33.0
+	github.com/rs/zerolog v1.34.0
 	github.com/spf13/viper v1.21.0
 	github.com/stretchr/testify v1.11.1
 	google.golang.org/grpc v1.76.0
