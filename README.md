@@ -17,8 +17,9 @@ A collection of reusable **Go (Golang) helper functions and utilities** designed
 
 ```
 gox/
-├── config/                 # Config helper functions, load some configuration file
-├── stringutils/            # String-related helper functions
+├── xconfig/                 # Config helper functions, load some configuration file
+├── ...
+├── ...
 ├── go.mod
 ├── go.sum
 ├── .gitignore
@@ -38,7 +39,7 @@ go get github.com/agussyahrilmubarok/gox
 Then import it in your code:
 
 ```go
-import "github.com/agussyahrilmubarok/gox/stringutil"
+import "github.com/agussyahrilmubarok/gox/xstringutil"
 ```
 
 Example usage:
@@ -48,11 +49,11 @@ package main
 
 import (
     "fmt"
-    "github.com/agussyahrilmubarok/gox/stringutil"
+    "github.com/agussyahrilmubarok/gox/xstringutil"
 )
 
 func main() {
-    result := stringutil.ToCamelCase("hello_world")
+    result := xstringutil.ToCamelCase("hello_world")
     fmt.Println(result) // Output: HelloWorld
 }
 ```
