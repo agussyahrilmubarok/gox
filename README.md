@@ -17,10 +17,10 @@ A collection of reusable **Go (Golang) helper functions and utilities** designed
 
 ```
 gox/
-├── docs/                   # Documentation helper functions
+├── docs/           # Documentation helper functions
 ├── ... 
 ├── pkg/
-│   ├── xconfig/        # Config helper functions, load some configuration file
+│   ├── xconfig/    # Config helper functions, load some configuration file
 │   └── ...
 ├── ...                  
 ├── go.mod
