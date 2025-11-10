@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/agussyahrilmubarok/gox/xconfig"
+	"github.com/agussyahrilmubarok/gox/pkg/xconfig"
 )
 
 // EnvConfig provides access to environment variables as configuration values.

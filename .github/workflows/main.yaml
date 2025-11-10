@@ -25,5 +25,5 @@ jobs:
       - name: Install dependencies
         run: go mod tidy
 
-      - name: Run tests
-        run: go test ./... -v
+      - name: Run pkg shared tests
+        run: go test ./pkg/... -v

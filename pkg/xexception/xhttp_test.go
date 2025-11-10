@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/agussyahrilmubarok/gox/xexception"
+	"github.com/agussyahrilmubarok/gox/pkg/xexception"
 	"github.com/stretchr/testify/assert"
 )
 

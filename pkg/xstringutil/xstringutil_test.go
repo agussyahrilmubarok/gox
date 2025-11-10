@@ -3,7 +3,7 @@ package xstringutil_test
 import (
 	"testing"
 
-	"github.com/agussyahrilmubarok/gox/xstringutil"
+	"github.com/agussyahrilmubarok/gox/pkg/xstringutil"
 )
 
 func TestToCamelCase(t *testing.T) {

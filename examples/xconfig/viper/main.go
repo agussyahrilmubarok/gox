@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/agussyahrilmubarok/gox/xconfig/xviper"
+	"github.com/agussyahrilmubarok/gox/pkg/xconfig/xviper"
 )
 
 type DatabaseConfig struct {

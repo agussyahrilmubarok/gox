@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/agussyahrilmubarok/gox/xconfig/xenv"
+	"github.com/agussyahrilmubarok/gox/pkg/xconfig/xenv"
 )
 
 type AppConfig struct {

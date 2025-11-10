@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/agussyahrilmubarok/gox/xstringutil"
+	"github.com/agussyahrilmubarok/gox/pkg/xstringutil"
 )
 
 func main() {

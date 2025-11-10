@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/agussyahrilmubarok/gox/xlogger/xlogrus"
+	"github.com/agussyahrilmubarok/gox/pkg/xlogger/xlogrus"
 	"github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 )

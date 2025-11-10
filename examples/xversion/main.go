@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/agussyahrilmubarok/gox/xversion"
+	"github.com/agussyahrilmubarok/gox/pkg/xversion"
 )
 
 func main() {

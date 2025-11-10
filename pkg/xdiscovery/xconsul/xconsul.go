@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/agussyahrilmubarok/gox/xdiscovery"
+	"github.com/agussyahrilmubarok/gox/pkg/xdiscovery"
 	consul "github.com/hashicorp/consul/api"
 )
 

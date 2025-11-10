@@ -3,7 +3,7 @@ package xversion_test
 import (
 	"testing"
 
-	"github.com/agussyahrilmubarok/gox/xversion"
+	"github.com/agussyahrilmubarok/gox/pkg/xversion"
 )
 
 func TestInfo(t *testing.T) {

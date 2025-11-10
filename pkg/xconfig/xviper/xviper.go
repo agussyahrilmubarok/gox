@@ -4,7 +4,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/agussyahrilmubarok/gox/xconfig"
+	"github.com/agussyahrilmubarok/gox/pkg/xconfig"
 	"github.com/spf13/viper"
 )
 

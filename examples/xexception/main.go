@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/agussyahrilmubarok/gox/xexception"
+	"github.com/agussyahrilmubarok/gox/pkg/xexception"
 )
 
 func simulateLogin(username, password string) error {
