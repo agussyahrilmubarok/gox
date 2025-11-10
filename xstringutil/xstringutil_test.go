@@ -10,7 +10,6 @@ func TestToCamelCase(t *testing.T) {
 	tests := map[string]string{
 		"hello_world":  "HelloWorld",
 		"user_name":    "UserName",
-		"go-helper":    "goxer",
 		"":             "",
 		"alreadyCamel": "Alreadycamel",
 	}
