@@ -1,4 +1,4 @@
-# 🧰 Go Help
+# 🧰 Go X
 
 A collection of reusable **Go (Golang) helper functions and utilities** designed to simplify development across multiple projects. This repository serves as a central toolkit for common patterns, operations, and reusable logic — so you can write cleaner, faster, and more maintainable Go code.
 
@@ -16,7 +16,7 @@ A collection of reusable **Go (Golang) helper functions and utilities** designed
 ## 📁 Project Structure
 
 ```
-gohelp/
+gox/
 ├── config/                 # Config helper functions, load some configuration file
 ├── stringutils/            # String-related helper functions
 ├── go.mod
@@ -32,13 +32,13 @@ gohelp/
 To use this helper package in your Go project, simply run:
 
 ```bash
-go get github.com/agussyahrilmubarok/gohelp
+go get github.com/agussyahrilmubarok/gox
 ```
 
 Then import it in your code:
 
 ```go
-import "github.com/agussyahrilmubarok/gohelp/stringutil"
+import "github.com/agussyahrilmubarok/gox/stringutil"
 ```
 
 Example usage:
@@ -48,7 +48,7 @@ package main
 
 import (
     "fmt"
-    "github.com/agussyahrilmubarok/gohelp/stringutil"
+    "github.com/agussyahrilmubarok/gox/stringutil"
 )
 
 func main() {
