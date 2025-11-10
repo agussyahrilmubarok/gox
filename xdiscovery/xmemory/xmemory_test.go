@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/agussyahrilmubarok/gohelp/xdiscovery"
-	"github.com/agussyahrilmubarok/gohelp/xdiscovery/xmemory"
+	"github.com/agussyahrilmubarok/gox/xdiscovery"
+	"github.com/agussyahrilmubarok/gox/xdiscovery/xmemory"
 	"github.com/stretchr/testify/assert"
 )
 

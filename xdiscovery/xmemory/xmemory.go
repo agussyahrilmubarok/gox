@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/agussyahrilmubarok/gohelp/xdiscovery"
+	"github.com/agussyahrilmubarok/gox/xdiscovery"
 )
 
 // Registry defines an in-memory service regisry.

@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/agussyahrilmubarok/gohelp/xconfig"
-	"github.com/agussyahrilmubarok/gohelp/xconfig/xviper"
+	"github.com/agussyahrilmubarok/gox/xconfig"
+	"github.com/agussyahrilmubarok/gox/xconfig/xviper"
 	"github.com/stretchr/testify/assert"
 )
 

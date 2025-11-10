@@ -3,14 +3,14 @@ package xstringutil_test
 import (
 	"testing"
 
-	"github.com/agussyahrilmubarok/gohelp/xstringutil"
+	"github.com/agussyahrilmubarok/gox/xstringutil"
 )
 
 func TestToCamelCase(t *testing.T) {
 	tests := map[string]string{
 		"hello_world":  "HelloWorld",
 		"user_name":    "UserName",
-		"go-helper":    "GoHelper",
+		"go-helper":    "goxer",
 		"":             "",
 		"alreadyCamel": "Alreadycamel",
 	}

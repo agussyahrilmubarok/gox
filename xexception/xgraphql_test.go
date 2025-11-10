@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/agussyahrilmubarok/gohelp/xexception"
+	"github.com/agussyahrilmubarok/gox/xexception"
 	"github.com/stretchr/testify/assert"
 )
 

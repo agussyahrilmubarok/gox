@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/agussyahrilmubarok/gohelp/xgorm"
+	"github.com/agussyahrilmubarok/gox/xgorm"
 	"github.com/stretchr/testify/assert"
 
 	"gorm.io/gorm"

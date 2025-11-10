@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/agussyahrilmubarok/gohelp/xstringutil"
+	"github.com/agussyahrilmubarok/gox/xstringutil"
 )
 
 func main() {

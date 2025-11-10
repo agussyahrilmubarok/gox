@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/agussyahrilmubarok/gohelp/xconfig"
+	"github.com/agussyahrilmubarok/gox/xconfig"
 )
 
 // EnvConfig provides access to environment variables as configuration values.

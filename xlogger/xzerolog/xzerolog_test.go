@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/agussyahrilmubarok/gohelp/xlogger/xzerolog"
+	"github.com/agussyahrilmubarok/gox/xlogger/xzerolog"
 	"github.com/rs/zerolog"
 )
 
